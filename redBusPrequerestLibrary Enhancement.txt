@@ -1,0 +1,18 @@
+Pre-requesting Library
+
+1. selenium
+2. datetime
+3. pandas
+4. numpy
+5. sqlalchemy
+6. pymysql
+7. re
+8. streamlit
+9. matplotlib
+
+Plus Diabetes Checkup (Additional Feature)
+
+10. xgboost
+11. pickle 
+
+please check above libraries are in your system before start this project.
