@@ -10,6 +10,7 @@
 3)By streamlining data collection and providing powerful tools for data-driven decision-making, this project can significantly improve operational efficiency and strategic planning in the transportation industry.
 
 **Features**
+
 Automated Web Scraping: Collect detailed bus travel data including routes, schedules, prices, and seat availability from the Redbus website.
 
 Data Analysis: Analyze the scraped data to extract meaningful insights and trends.
@@ -18,6 +19,7 @@ Data Filtering: Filter the data based on various criteria such as route, price, 
 
 
 **Technologies Used**
+
 Python: The core programming language used for scripting and data processing.
 
 Selenium: A web automation tool used for web scraping.
