@@ -22,6 +22,7 @@ Data Filtering: Filter the data based on various criteria such as route, price, 
 Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library), DateTime(Library)   
 
 **Approach**
+
   Python: The core programming language used for scripting and data processing.
   
   Selenium: A web automation tool used for web scraping.
