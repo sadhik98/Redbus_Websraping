@@ -17,21 +17,26 @@ Data Analysis: Analyze the scraped data to extract meaningful insights and trend
 
 Data Filtering: Filter the data based on various criteria such as route, price, departure time, etc.
 
+**Tools**
 
-**Technologies Used**
+Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library), DateTime(Library)   
 
-Python: The core programming language used for scripting and data processing.
+**Approach**
+  Python: The core programming language used for scripting and data processing.
+  
+  Selenium: A web automation tool used for web scraping.
+  
+  Streamlit: A framework for creating interactive web applications.
+  
+  Pandas: A data manipulation and analysis library.
+  
+  Mysql: Storing the scraped data and utilizing while using Streamlit filtration process 
+  
+  Regular Expressions (re): A module for handling string operations and data cleaning.
 
-Selenium: A web automation tool used for web scraping.
+**Findings**
 
-Streamlit: A framework for creating interactive web applications.
-
-Pandas: A data manipulation and analysis library.
-
-Datetime: A module to handle date and time operations.
-
-Regular Expressions (re): A module for handling string operations and data cleaning.
-
+Findings--> Gaining a significant amount of data to utilize in the future for critical analysis and competitive analysis for any other travel company or redBus.
 
 **Prerequesting Library**
 -> All the Prerequesting library details are in the redBusPrequerestLibrary.txt 
