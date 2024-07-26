@@ -1,0 +1,11 @@
+Pre-requesting Library
+
+1. selenium
+2. datetime
+3. pandas
+4. numpy
+5. sqlalchemy
+6. pymysql
+7. re
+
+please check above libraries are in your system before start this project.
